@@ -1,0 +1,9 @@
+/* Theme customization */
+
+:root {
+    --bs-primary: #ff5722; /* Change primary color to orange */
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
